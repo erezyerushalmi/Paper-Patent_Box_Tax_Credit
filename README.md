@@ -1,10 +1,17 @@
-# Paper-Patent_Box_Tax_Credit
-Paten Boxes, Tax Credits, or Both?  Online Appendix documention for the numerical implementation of the analytical framework developed in the paper. Provides the complete model equations and two GAMS codes. The material is intended to facilitate replication and future extensions of the model.
+# Patent Boxes, Tax Credits, or Both?
+
+This repository accompanies the paper **"Patent Boxes, Tax Credits, or Both?"** by Michael Devereux, Ben Lockwood and Erez Yerushalmi.
+
+It contains the numerical implementation of the analytical framework developed in the paper and is intended to facilitate replication, verification and future extensions of the model.
+
+## Repository contents
+
+- **20260721_MAIN_Model.gms** – GAMS implementation of the Main Model presented in the paper.
+- **20260721_TRANSFER_model.gms** – GAMS implementation of the Transfer Model.
+- **Paper_Online_Appendix.pdf** – Online Appendix documenting the analytical equations, numerical implementation and model regimes used in the simulations.
 
 ## Licensing
 
 The GAMS source code in this repository is released under the MIT License.
 
-The accompanying paper and Online Appendix remain copyright © Michael Devereux,
-Ben Lockwood and Erez Yerushalmi and are provided for academic use.
-Please cite the associated paper when using this material.
+The accompanying paper and Online Appendix remain copyright © Michael Devereux, Ben Lockwood and Erez Yerushalmi and are provided for academic use. If you use this repository in academic work, please cite the associated paper.
