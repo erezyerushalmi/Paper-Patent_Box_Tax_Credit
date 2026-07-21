@@ -7,7 +7,7 @@
 * Transfer Model: MCP/KKT formulation
 * Full derivative version with A_l, A_e, B_l, B_e blocks
 *
-* Documentation: 20260721_Online_Appendix-Github.pdf.
+* Documentation: Paper_Online_Appendix.pdf.
 * The common economic environment, government problem, MCP formulation, and
 * regime definitions are in Section 2. The Transfer Model is in Section 4.
 *
