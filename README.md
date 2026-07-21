@@ -6,9 +6,9 @@ It contains the numerical implementation of the analytical framework developed i
 
 ## Repository contents
 
-- **20260721_MAIN_Model.gms** – GAMS implementation of the Main Model presented in the paper.
-- **20260721_TRANSFER_model.gms** – GAMS implementation of the Transfer Model.
-- **Paper_Online_Appendix.pdf** – Online Appendix documenting the analytical equations, numerical implementation and model regimes used in the simulations.
+- **1_MAIN_Model.gms** – GAMS implementation of the Main Model presented in the paper.
+- **2_TRANSFER_model.gms** – GAMS implementation of the Transfer Model.
+- **0_Online_Appendix.pdf** – Online Appendix documenting the analytical equations, numerical implementation and model regimes used in the simulations.
 
 ## Licensing
 
