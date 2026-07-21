@@ -6,7 +6,7 @@
 * Main Model: MCP/KKT formulation
 * Full derivative version with A_l, A_e, B_l, B_e blocks
 *
-* Documentation: 20260721_Online_Appendix-Github.pdf.
+* Documentation: Paper_Online_Appendix.pdf.
 * The common calibration, government problem, MCP formulation, and regime
 * definitions are in Section 2; the Main Model is documented in Section 3.
 *
