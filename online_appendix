@@ -1,0 +1,1 @@
+This Online Appendix documents the numerical implementation of the analytical framework developed in the paper. It provides the complete model equations together with the GAMS codes for both the Main Model and the Transfer Model used in the numerical analysis. The material is intended to facilitate replication and future extensions of the model.
