@@ -3,7 +3,7 @@
 * Paper title: Patent Boxes, Tax Credits, or Both?
 * Authors: Michael Devereux, Ben Lockwood, Erez Yerushalmi
 * ============================================================
-* Main Model: MCP/KKT formulation
+* BASE Model: MCP/KKT formulation
 * Full derivative version with A_l, A_e, B_l, B_e blocks
 *
 * Documentation: Paper_Online_Appendix.pdf.
