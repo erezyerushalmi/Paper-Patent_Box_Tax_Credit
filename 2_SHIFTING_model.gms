@@ -4,7 +4,7 @@
 * Authors: Michael Devereux, Ben Lockwood, Erez Yerushalmi
 * ============================================================
 * ============================================================
-* Transfer Model: MCP/KKT formulation
+* SHIFTING Model: MCP/KKT formulation
 * Full derivative version with A_l, A_e, B_l, B_e blocks
 *
 * Documentation: Paper_Online_Appendix.pdf.
